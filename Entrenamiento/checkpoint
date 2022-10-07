@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/luii/Documents/practicas/chatbot/Entrenamiento/model.tflearn"
+all_model_checkpoint_paths: "/home/luii/Documents/practicas/chatbot/Entrenamiento/model.tflearn"
